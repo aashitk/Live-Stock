@@ -1,3 +1,3 @@
 export class AppSettings {
-  public static webSocketURL = "wss://stocks.mnet.website";
+  public static webSocketURL = "ws://stocks.mnet.website";
 }
